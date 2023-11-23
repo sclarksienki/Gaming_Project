@@ -1,1 +1,2 @@
 # Gaming_Project
+Utilized data from Kaggle to perform data cleaning, exploratory data analysis, and statistical analysis looking at how skills, outcomes, and experience impact time spent playing a popular video game. Conducted regression, random forest classification, and multivariate analysis, produced visualizations for product insights, and suggested future research directions. Full Project Tech stack: Pandas, NumPy, Matplotlib, Seaborn, Sklearn, Tableau, and R Studio.
